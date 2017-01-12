@@ -1,0 +1,5 @@
+Readme
+
+Using tweepy to store and print tweets in python.
+Dependencies - tweepy
+Requirements - generating consumer secret keys and tokens 
